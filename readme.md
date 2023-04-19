@@ -2,10 +2,13 @@
 
 >  An **array** is an object that holds values (of any type) not particularly in named properties/keys, but rather in numerically indexed position In JavaScript, an array is an ordered list of values. Each value is called an element specified by an index. ... First, an array can hold values of mixed types.
 
+ ![](./1.png)
+ ![](./2.png)
 
 ##  Array methods
 - **`push()`**  
     >The `push()` method adds the specified elements to the end of an array and returns the new length of the array.
+    
 
 - **`unshift()`**  
     >The `unshift()` method adds the specified elements to the beginning of an array and returns the new length of the array.
