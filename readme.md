@@ -56,7 +56,7 @@
 - **`sort()`**  
     >The `sort()` method sorts the elements of an array  and returns the reference to the same array, now sorted.
 
-    ![](./2.png)
+    ![](./12.png)
 
 
 
